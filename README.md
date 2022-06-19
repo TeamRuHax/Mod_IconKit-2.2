@@ -14,5 +14,5 @@ Credits:
 5. Jaan
 6. DeCody
 
-[Discord_Server] (https://discord.gg/ew3T5vCHJM)
+[ Discord_Server ] (https://discord.gg/ew3T5vCHJM)
 Присоединяйся, мы ждём :)
