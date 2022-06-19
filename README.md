@@ -43,7 +43,7 @@
 
 
 
-Присоединяйся, мы ждём тебя с не терпением !! :)
+Присоединяйся, мы ждём тебя с нетерпением !! :)
 
 [Наш дискорд сервер](https://discord.gg/ew3T5vCHJM) | [Наш Youtube канал](https://www.youtube.com/channel/UCn6206s_uqkEStpsX_EFtPg)
 # /RUSRUS
