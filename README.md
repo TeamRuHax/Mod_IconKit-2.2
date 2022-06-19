@@ -10,7 +10,7 @@
 1. Распакуй архив
 2. Зайди в корневую папку "GeometryDash"
 3. Закинь "Icon22ruhax.dll" в папку extensions
-4. 
+![](https://cdn.discordapp.com/attachments/968128405960814632/988143345262030909/1.png)
 
 
 
